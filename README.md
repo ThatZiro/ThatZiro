@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ThatZiro/Portfolio">
-    <img src="./README_Assets/README-Logo.png" alt="Logo" width="160" height="160">
+    <img src="README-Logo.png" alt="Logo" width="160" height="160">
   </a>
 
 <h3 align="center">Brandon Barnes</h3>
@@ -19,9 +19,9 @@ Join me on this exciting journey, where the fusion of creativity, logic, and a r
 </br>
 
 ## Working
+
 I'm currently a studying Full Stack Development at UCF Bootcamp.
 Graduating December 2023
-
 
 <!--
 **ThatZiro/ThatZiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
