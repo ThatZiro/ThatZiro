@@ -1,5 +1,3 @@
-### Greetings! I'm Brandon, 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -9,7 +7,7 @@
 
 <h3 align="center">Brandon Barnes</h3>
 
-  <p align="center">a creative problem-solver with a passion for computers and a five-year background in software development. While I'm new to web design, I've honed my skills with languages like C#, JavaScript, HTML, CSS, and more. I thrive on challenges, like using a new framework to create procedurally generated 3D buildings from scratch. Currently, I'm a web development student at UCF College, aspiring to become a Full Stack Software Engineer.
+  <p align="center">Greetings! I'm Brandon, a creative problem-solver with a passion for computers and a five-year background in software development. While I'm new to web design, I've honed my skills with languages like C#, JavaScript, HTML, CSS, and more. I thrive on challenges, like using a new framework to create procedurally generated 3D buildings from scratch. Currently, I'm a web development student at UCF College, aspiring to become a Full Stack Software Engineer.
 
 My journey as a self-taught developer has taught me adaptability and relentless research, a competitive edge in our ever-evolving industry. I've worked on diverse projects, from video games to blogs, and believe in prioritizing user experience and accessibility. I excel in logical thinking, project management, and collaboration with methodologies like Agile, Git Flow, and Scrum. Under pressure, I stay calm, leaving room for polish before deadlines. My long-term goal is to create innovative, user-centric software solutions that leave a lasting mark.
 
