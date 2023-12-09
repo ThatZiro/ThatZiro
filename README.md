@@ -1,6 +1,5 @@
 <img src="Banner.png"/>
-<h1 align="center">Hi 👋, I'm Brandon Barnes</h1>
-<h3 align="center">Full Stack Software Developer | Creative Problem-Solver | Dedicated to Innovating User-Centric Solutions with C#, JavaScript, and Moreeveloper from India</h3>
+<h3 align="center">Full Stack Software Developer | Creative Problem-Solver | Dedicated to Innovating User-Centric Solutions with C#, JavaScript, and More</h3>
 
 [//]: # (<p align="center"> <img src="https://komarev.com/ghpvc/?username=thatziro&label=Profile%20views&color=0e75b6&style=flat" alt="thatziro" /> </p>)
 
